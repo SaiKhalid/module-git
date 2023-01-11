@@ -1,0 +1,2 @@
+Likes system 
+- if user already likes, add 1
